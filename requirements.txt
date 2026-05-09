@@ -1,0 +1,6 @@
+PyQt6
+librosa
+matplotlib
+numpy
+soundfile
+pyqtgraph\npyqtdarktheme
